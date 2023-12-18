@@ -23,3 +23,5 @@ Figura 2:
 
 Figura 3:
 <img src="/figuras/tag_green_on.jpg">
+
+A segunda parte do experimento não foi possível ser realizada devido a falta de câmeras funcionando. Foram testadas 6 módulos e 2 Raspberry Pi diferentes.
